@@ -2,38 +2,43 @@
 {
     "updates": [
         {
+                "title": "title part",
+                "body": "body part",
+                "time": "1/5/17 11:49 pm"
+        },
+        {
                 "title": "hi",
-                "name": "asdfasdfasdf",
+                "body": "asdfasdfasdf",
                 "time": "1/5/17 11:36 pm"
         },
         {
                 "title": "test",
-                "name": "asdfasdfasdf",
+                "body": "asdfasdfasdf",
                 "time": "1/5/17 11:30 pm"
         },
         {
                 "title": "again!!!",
-                "name": "asdfasdfasdf",
+                "body": "asdfasdfasdf",
                 "time": "1/5/17 2:42 pm"
         },
         {
                 "title": "asdfasdfasde!!!",
-                "name": "asdfasdfasdf",
+                "body": "asdfasdfasdf",
                 "time": "1/5/17 2:42 pm"
         },
         {
                 "title": "No updates yet",
-                "name": "",
+                "body": "",
                 "time": "1/5/17 2:42 pm"
         },
         {
                 "title": "No updates yet",
-                "name": "Dinner is served in the cafeteria I wonder what happens with such a long line asdfasdfasfadsfasdfsadf fdfdfdfdfdfd",
+                "body": "Dinner is served in the cafeteria I wonder what happens with such a long line asdfasdfasfadsfasdfsadf fdfdfdfdfdfd",
                 "time": "1/5/17 2:43 pm"
         },
         {
                 "title": "No updates yet",
-                "name": "",
+                "body": "",
                 "time": "1/5/17 2:42 pm"
         },
     ]
